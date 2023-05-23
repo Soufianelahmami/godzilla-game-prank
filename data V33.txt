@@ -47,11 +47,11 @@
   "my_data":[
   {"desc1":"description1 ser ",
    "photo1":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc2":"Pranks have always been a popular form of entertainment, and in the world of gaming, they take on a whole new dimension","photo2":"https://iili.io/Hg6iigt.jpg"},
+  {"desc3":". From hidden surprises to unexpected twists, gamers are constantly seeking ways to inject humor and excitement into their experiences.","photo3":"https://iili.io/Hg6iP1I.webp"},
+  {"desc4":"One legendary prank that has captured the attention of gamers around the world is the Godzilla game prank. In this article, we delve into the thrilling world of the Godzilla game prank, ","photo4":"https://iili.io/Hg6iQ7n.jpg"},
+  {"desc5":"exploring its origins, impact, and the frenzy it created among gamers and enthusiasts alike","photo5":"https://iili.io/Hg6irsp.jpg"},
+  {"descd":" Godzilla game prank originated as a playful and creative stunt by game developers to surprise and delight their audience. It first gained prominence in 2014 when a video game trailer for "P.T." ","photod":"https://iili.io/Hg6iLdX.jpg"}
    ]
  
 }
